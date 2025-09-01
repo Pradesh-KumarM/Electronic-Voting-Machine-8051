@@ -19,7 +19,7 @@ It eliminates manual counting errors and provides a secure, efficient, and user-
 - Secure memory allocation for storing votes.
 
 ## 📂 Repository Structure
-- `Report/` → Project report (PDF version).
+- MPMC REPORT → Project report (PDF version).
 - `Code/` → 8051 Assembly source code for the EVM.
 - `Images/` → Block diagram and circuit snapshots.
 
